@@ -1,0 +1,15 @@
+{
+  "name": "mars_rovers",
+  "version": "1.0.0",
+  "description": "Mars Rovers Solution",
+  "main": "app",
+  "scripts": {
+    "start": "node src/app",
+    "test": "nodeunit test/Rover.test.js"
+  },
+  "author": "Erick Gledson",
+  "license": "MIT",
+  "devDependencies": {
+    "nodeunit": "^0.9.1"
+  }
+}
