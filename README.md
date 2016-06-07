@@ -4,8 +4,8 @@
 - NodeJS v.4.4.2
 
 **Execução**
-1. npm install
-2. npm start
+- npm install
+- npm start
 
 **Teste**
-1. npm test
+- npm test
